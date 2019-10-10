@@ -11,6 +11,7 @@
 
 </head>
 <body>
+	<h2>Hello world</h2>
 	<?php  
 		// $pdo = new PDO('pgsql:host=localhost;port=5432;dbname=GWCourses', 'postgres', '');
 		// echo "done";
